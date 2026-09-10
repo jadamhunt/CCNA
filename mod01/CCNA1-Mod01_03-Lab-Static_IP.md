@@ -16,8 +16,7 @@ Maximize the glory of endless profits!
 
 
 ## Topology 
-![Topology](CCNA1-Mod01_03-topo-Static_IP.png)
-![Topo2](https://raw.githubusercontent.com/jadamhunt/CCNA/main/mod01/CCNA1-Mod01_03-topo-Static_IP.png)
+![Topology](https://raw.githubusercontent.com/jadamhunt/CCNA/main/mod01/CCNA1-Mod01_03-topo-Static_IP.png)
 
 
 ## Schema
