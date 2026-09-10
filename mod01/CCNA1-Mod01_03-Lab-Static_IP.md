@@ -1,5 +1,8 @@
 # Module 01 - Basic Connection and end-host config.
-CCNA1-Lab-Mod01_03-Static_IP
+**Activity:** Lab  
+**Name:** CCNA1-Lab-Mod01_03-Static_IP  
+**Author:** Prof. J.Hunt  
+**Version:** 1.2 (2026)  
 
 
 ## Introduction
@@ -16,8 +19,8 @@ Maximize the glory of endless profits!
 
 
 ## Topology 
-![Topology](https://raw.githubusercontent.com/jadamhunt/CCNA/main/mod01/CCNA1-Mod01_03-topo-Static_IP.png)
 
+![Topology](https://raw.githubusercontent.com/jadamhunt/CCNA/main/mod01/CCNA1-Mod01_03-topo-Static_IP.png)
 
 ## Schema
 **Domain:** netech.lab
